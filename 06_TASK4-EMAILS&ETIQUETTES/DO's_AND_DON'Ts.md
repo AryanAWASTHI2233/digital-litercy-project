@@ -1,5 +1,6 @@
 ✅ Responsible Social Media Use — Checklist
 for College Students
+
 ✔️ Do’s
 
 Think before you post — ask yourself if it reflects 
