@@ -6,9 +6,13 @@ This repository contains all the work completed as part of the Student Digital A
 
 
 Student: [ARYAN AWASTHI]
+
 Reg. No.: [25BCY10178]
+
 Branch: [CSE (CYBER SECURITY AND DIGITAL FORENSICS)]
+
 Year: 2025-2029
+
 Course Code: [CSE0001]
 
 
